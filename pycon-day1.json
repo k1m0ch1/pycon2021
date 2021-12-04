@@ -1,0 +1,141 @@
+[{
+  'title': 'PyCon ID 2021 Opening Day 1',
+  'description': '<p>Welcome to PyCon Indonesia 2021! Have a warm greeting from organizer and get to know about the event here. Hope you enjoy the day!</p>',
+  'name': 'PyCon ID 2021 Opening Day 1',
+  'track_name': 'Main Stage',
+  'stream_recording_link': '7aadcm3h3cxp',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/NbXPxIJZKxwqe0m2AmWXyxNIQUw1Yk/vod.mp4?Expires=1638806120&KeyName=vcdn-key&Signature=iPIdUo4ltJK_rS8j-kBm9qj1XKI'
+}, {
+  'title': 'Keynote Session 1',
+  'description': '<p>PyCon ID 2021 Keynote Session 1 with Ainun Najib</p>\n<p>Presentation slide: <a href="https://docs.google.com/presentation/d/1J6hS1t7wHY8ENqNOfgqWMXsgveJapHP6ciNgWQIFxSo/edit#slide=id.g10324f573b7_0_38" target="_blank" rel="noopener">link</a></p>',
+  'name': 'Keynote Session 1',
+  'track_name': 'Main Stage',
+  'stream_recording_link': 'jnyy6sges2wf',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/AM25y7ZT00Y1tcd7PWzqHXKDeqXX0X/vod.mp4?Expires=1638806122&KeyName=vcdn-key&Signature=Bsr5VYrckYjyrmxLn5C3Hw8o6PY'
+}, {
+  'title': 'PyCon ID 2021 Sponsorship Tour Day 1',
+  'description': "<p>Let's know more about our sponsors in PyCon ID 2021!</p>",
+  'name': 'PyCon ID 2021 Sponsorship Tour Day 1',
+  'track_name': 'Main Stage',
+  'stream_recording_link': '3yy5kazqhvvs',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/rG1MNrbCBx464cGoonkR2ea6WMIm9h/vod.mp4?Expires=1638806124&KeyName=vcdn-key&Signature=v_oDJ1vJj34fOBTuvyWKQIzS6tI'
+}, {
+  'title': 'Keynote Session 2 | Modern Python through FastAPI and friends',
+  'description': '<p>PyCon ID 2021 Keynote Session 2 with Sebastian Ramirez</p>\n<p><br />Explore some of the great features from modern Python and how to use them with FastAPI and friends. We will see how to make code that is less error-prone, simpler, more efficient, and have a great developer experience, all at the same time. And all this while including best practices by default. We will see a bit about type annotations (type hints), async/await, and an overview of FastAPI, Typer, and others.</p>\n<p>This talk doesn\'t expect any technical background, just some basic knowledge of Python.</p>\n<p><a href="https://speakerdeck.com/tiangolo/modern-python-through-fastapi-and-friends-pycon-indonesia">Presentation slide</a></p>',
+  'name': 'Keynote Session 2 | Modern Python through FastAPI and friends',
+  'track_name': 'Main Stage',
+  'stream_recording_link': 'hu4yuxe8mpfy',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/RNiyLvTpR4z1CGwjcr0mTeZYtHhoiF/vod.mp4?Expires=1638806127&KeyName=vcdn-key&Signature=myN7Bc7szJ83ATOaPefF94VLgto'
+}, {
+  'title': 'Lighting Talk and Closing Day 1',
+  'description': '<ul>\n<li><a href="https://docs.google.com/presentation/d/1QhZhONH8cV0P2_PbvDJJlB-YBJq3p7EB0H5sS8fFm7A/edit?usp=sharing">Slide for Speaker 1</a></li>\n<li><a href="https://docs.google.com/presentation/d/1QSNGhYCON9ZxdEy-fBkzHhQesaxKaqmFuSAOAC4XSeo/edit?usp=sharing">Slide for Speaker 2</a></li>\n<li><a href="https://drive.google.com/drive/folders/162sxmzXFyBSQIIeAyrdaS6cezSfineRb">Slide for Speaker 3</a></li>\n<li><a href="https://docs.google.com/presentation/d/1NyccZfksJUwd_SQt7leT6O2vG_RebWXKSmI_lkxRY6o/edit#slide=id.p1">Slide for Speaker 4</a></li>\n</ul>',
+  'name': 'Lighting Talk and Closing Day 1',
+  'track_name': 'Main Stage',
+  'stream_recording_link': 'b3hanp5qimm6',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/eTmLQn9oVp114lbkVOmJqc7hhbbX6i/vod.mp4?Expires=1638806128&KeyName=vcdn-key&Signature=opVCng4r5JC9MInngVYOlUmlhhc'
+}, {
+  'title': '[IDN] Python for Government Institution: Producing Better Official Statistics ',
+  'description': '<p>The talk mainly discuss on how Python has been utilized in a government institution, i.e. Badan Pusat Statistik (BPS) to support the dissemination of official statistics.&nbsp;</p>\n<p>Arie Wahyu Wijayanto is a lecturer and Acting Head of Statistical Computing Study Center, Politeknik Statistika STIS. Passionate in machine learning, big data, and remote sensing.</p>\n<p><a href="https://docs.google.com/presentation/d/1dEzgtPYZNVFmsG3TEJ5mMSw5sURJo0jwj4TW2lGHysE/edit#slide=id.g1060abdfb02_0_1802">Presentation Slide</a></p>',
+  'name': '[IDN] Python for Government Institution: Producing Better Official Statistics ',
+  'track_name': 'PyCon Pod 1',
+  'stream_recording_link': 'jmvi3rtpnizb',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/bgbv0LvGIMq4bYvhKGHbC0T0HCtqjM/vod.mp4?Expires=1638806131&KeyName=vcdn-key&Signature=6_2JjrxX0eOMeIEJpohfv7J0mhQ'
+}, {
+  'title': '[IDN] Monitoring Hot Spot Secara Real Time',
+  'description': '<p>Materi yang saya sampaikan harapannya memiliki manfaat untuk berbagai pihak yang terkait dengan kebakaran hutan, tidak hanya itu materi ini juga bisa membantu pihak teknis menentukan workflow dalam otomasi dalam menganalisis data-data spasial.</p>\n<p><a href="https://esriindonesiaesri-my.sharepoint.com/:p:/g/personal/chsagala_esriindonesia_co_id/EQNHq59jhMhKrN7mGjkZaDMBaLfjq5JStuCljkro9FqOsA?e=qi2Mkw">Presentation Slide</a></p>',
+  'name': '[IDN] Monitoring Hot Spot Secara Real Time',
+  'track_name': 'PyCon Pod 1',
+  'stream_recording_link': 'bc9s3pvw232d',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/ADWZUY6ft4j3NL3DoE4WSFNgmD3XTD/vod.mp4?Expires=1638806133&KeyName=vcdn-key&Signature=NAacgwCyzBjOoVQI1Gc6l35291A'
+}, {
+  'title': '[IDN] Learning Reinforcement Learning with OpenAI Gym',
+  'description': '<p>While topics like supervised and unsupervised learning are commonly covered in ML courses, RL is usually overlooked. This is because we usually have to set up the env ourselves before even getting into the RL part. I will share how OpenAI Gym helps me in teaching RL to inspire others to do so.</p>\n<p><a href="https://aliakbars.id/files/openai.pdf">Presentation Slide</a></p>',
+  'name': '[IDN] Learning Reinforcement Learning with OpenAI Gym',
+  'track_name': 'PyCon Pod 1',
+  'stream_recording_link': 'cjhywrm6gx7r',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/WeATR4UIHLFoGosAl0fSCYiRO6HFiB/vod.mp4?Expires=1638806134&KeyName=vcdn-key&Signature=artK7_p8Yx8YxiHfiAnsARM-2Yo'
+}, {
+  'title': '[IDN] Training our own CLIP model on Indonesian data',
+  'description': '<p>In this talk we will learn about CLIP (Contrastive Language-Image Pre-training), a multimodal model, and how we can build our own CLIP model that is trained on Indonesian data.</p>\n<p><a href="https://drive.google.com/file/d/1F6l-Z3MknFM5dTPuidg85KbN2nVe4e-L/view">Presentation Slide</a></p>',
+  'name': '[IDN] Training our own CLIP model on Indonesian data',
+  'track_name': 'PyCon Pod 2',
+  'stream_recording_link': 'kvbs56afg2x7',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/H9t2n1PE2tX2f654Wki6enCrQMelZa/vod.mp4?Expires=1638806136&KeyName=vcdn-key&Signature=EB9y893_TQBApWSkW6Ine_HWnmA'
+}, {
+  'title': '[ENG] Growing with Pydantic and FastAPI',
+  'description': '<p>I&rsquo;ll explain how noon Ecommerce utilized Pydantic and FastAPI to solve problems the organization is facing in MENA region.</p>\n<p>Fauzan is a Senior Engineering Manager at noon Ecommerce. Python Developer since 2010. Co-Founder of Python-ID Jogja. Dreamer, Developer, Husband, Father.</p>\n<p><a href="https://docs.google.com/presentation/d/17Sa_Hs2lOPi3mld7gX-x5wA-XLsfZP6jYZ3c614ks8Y/edit?usp=sharing">Presentation Slide</a></p>',
+  'name': '[ENG] Growing with Pydantic and FastAPI',
+  'track_name': 'PyCon Pod 2',
+  'stream_recording_link': '9ckmz5a6sjm6',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/reiEPeO0fQdf7Yc2uNnvlBDe1ZGNqY/vod.mp4?Expires=1638806138&KeyName=vcdn-key&Signature=Sa4snHof3WWdKiV3UqY32apfSI0'
+}, {
+  'title': '[ENG] A Guided Tour of Caching Patterns',
+  'description': '<p>You might have been using cache for years, and still always design the application to be responsible for the sync between the cache and the underlying data store. Did you know there are many more options available?</p>\n<p><a href="https://www.slideshare.net/nfrankel/gids-a-guided-tour-of-caching-patterns">Presentation Slide</a></p>',
+  'name': '[ENG] A Guided Tour of Caching Patterns',
+  'track_name': 'PyCon Pod 2',
+  'stream_recording_link': '6dmwype73ibr',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/SqcIiGv9H16Vl3ACvt3sPf05BwrwnF/vod.mp4?Expires=1638806140&KeyName=vcdn-key&Signature=0neQXccHec4BWd6jj3MK12LRNEc'
+}, {
+  'title': '[IDN] Implementasi Teorema Matriks-Pohon dengan PyTorch',
+  'description': '<p>Teorema matriks-pohon penting dalam NLP, namun informasi implementasinya langka. Saya akan menjelaskan implementasinya yang efisien dan aman dengan PyTorch.</p>\n<p>Kemal adalah kandidat doktor di University of Melbourne, Australia, dengan bidang keahlian pengolahan bahasa manusia (NLP) dan penggemar bahasa Python.</p>\n<p><a href="https://kkurniawan.com/pdfs/pycon-id-mtt.pdf">Presentation Slide</a></p>\n<p>&nbsp;</p>',
+  'name': '[IDN] Implementasi Teorema Matriks-Pohon dengan PyTorch',
+  'track_name': 'PyCon Pod 3',
+  'stream_recording_link': 'ei4viexsc3m9',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/fjh6igV773dTsUHgmadUbR6ifLN7Ct/vod.mp4?Expires=1638806142&KeyName=vcdn-key&Signature=BTKXt-F4nI1w4uatT3pyTDnRRZI'
+}, {
+  'title': '[IDN] Building Knowledge Graph using Python and Graph Database',
+  'description': "<p>This session will introduce about graph database, it's query language called Cypher, and implementation in application and graph data science. This session will also show how to build knowledge graph in graph database using Python.</p>",
+  'name': '[IDN] Building Knowledge Graph using Python and Graph Database',
+  'track_name': 'PyCon Pod 3',
+  'stream_recording_link': 'ixh9nfh5qui3',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/r9htkweVc0mR3cX3JWT5oWxzdnum7v/vod.mp4?Expires=1638806143&KeyName=vcdn-key&Signature=liCupbHOa1xqrkzZ49Hk3oAF_MA'
+}, {
+  'title': '[IDN] Managing 1400+ Test Cases a day, by building a simple E2E test using  Pytest and QaseTMS',
+  'description': '<p>In this talk, I will share you how we managing the test cases by using the Qase TMS, and Pytest. Starting from setup the Qase TMS, introducing our current Pytest codebase, Pytest configuration for web and mobile, writing the test script, and making the integration for testing results and reporting.</p>\n<p><a href="https://drive.google.com/drive/folders/1VBcYlqEm8vfCGp5hfDRzdvPukTlLVNtI?usp=sharing">Presentation Slide</a></p>',
+  'name': '[IDN] Managing 1400+ Test Cases a day, by building a simple E2E test using  Pytest and QaseTMS',
+  'track_name': 'PyCon Pod 3',
+  'stream_recording_link': 's48wcbfpxv5w',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/oT4k4naGv9t8Qi9ktRNhWSrP8qYNa6/vod.mp4?Expires=1638806145&KeyName=vcdn-key&Signature=qO15qZmBo-7jocHZsaLvwYyxd78'
+}, {
+  'title': '[ENG] The Importance of Python for Ethical Hacking',
+  'description': '<p>Do you ever wondering how do hackers code? and why python is so widely used by hackers?</p>\n<p>Yahya is an OSS enthusiast and Computerphile.</p>\n<p><a href="https://docs.google.com/presentation/d/17nFHEt19MXtpdn2i5121RK_MSoq5nROJPWZuXjhnfnE/edit?usp=sharing">Presentation Slide</a></p>\n<p>&nbsp;</p>',
+  'name': '[ENG] The Importance of Python for Ethical Hacking',
+  'track_name': 'PyCon Pod 4',
+  'stream_recording_link': 'hyhsky5avqmx',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/zkv8muuXdxPZot7Lnf03lalsoCXdYe/vod.mp4?Expires=1638806147&KeyName=vcdn-key&Signature=KHeLjIH7bzW7CZfZvi5u6T5Pl_Q'
+}, {
+  'title': '[IDN] Making Sense of Geospatial Data to Improve Business',
+  'description': '<p>Geospatial data is often exclusively used for delivery purposes and stored in coordinates that are hard to interpret. With the right representation of geospatial data, we can understand our current business landscape, create plans for improvements, and achieve business goals.</p>',
+  'name': '[IDN] Making Sense of Geospatial Data to Improve Business',
+  'track_name': 'PyCon Pod 4',
+  'stream_recording_link': 'in5ya9f7cuj6',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/MrQVtR7M8YWmBEhM7pV0EJiyjbY5sZ/vod.mp4?Expires=1638806149&KeyName=vcdn-key&Signature=LCnRQsXjtvBk_0nK7gbpQ2LM-E8'
+}, {
+  'title': '[ENG] The Magic of Self: How Python inserts self into methods',
+  'description': '<p>Did you ever wonder how "self" works in Python? Watch this talk to get an introduction to the magic behind "self", the descriptor protocol.</p>\n<p>Sebastiaan is passionate about teaching Python and writing good code. As an owner of Python Discord, he is also actively engaged in the Python community.</p>\n<p><a href="https://sebastiaanzeeff.nl/pycon-id/">Presentation Slide</a></p>',
+  'name': '[ENG] The Magic of Self: How Python inserts self into methods',
+  'track_name': 'PyCon Pod 4',
+  'stream_recording_link': '9xaxtxzn5mmv',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/sQ76Ps6T9VqN2mRqXNTKATsO08mr3Z/vod.mp4?Expires=1638806151&KeyName=vcdn-key&Signature=jgGEYWliSJXZMGDLSTHdfSJaD1Y'
+}, {
+  'title': '[IDN] Define Cloud Infrastructure in Code with AWS CDK',
+  'description': '<p>In this session, you will learn how to define and manage your infrastructures using Python code and AWS Cloud Development Kit (CDK).</p>',
+  'name': '[IDN] Define Cloud Infrastructure in Code with AWS CDK',
+  'track_name': 'PyCon Pod 5',
+  'stream_recording_link': 'ex6quk4v5i7y',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/bBaYQi7mRdHWRbNzNs7sxYXJXNAOqQ/vod.mp4?Expires=1638806152&KeyName=vcdn-key&Signature=ygN2ldOMGrMzsFxd4kcaXqZ4MBU'
+}, {
+  'title': '[ENG] The Joy of Creating Art with Code.',
+  'description': '<p>Art is everywhere and it&rsquo;s beautiful. Unleash the creative artist inside you with the beauty of Generative Art. Learn how algorithms are used to create these aesthetic art forms, how motion and structures emit sounds and what toolkits are required to do so.</p>\n<p><a href="https://drive.google.com/file/d/1piyJ_UxA9c4OoU_XXnG9QKW7y9CcXglH/view?usp=sharing">Presentation Slide</a></p>\n<p><a href="https://github.com/neerajp99/pycon-indonesia">Code</a></p>',
+  'name': '[ENG] The Joy of Creating Art with Code.',
+  'track_name': 'PyCon Pod 5',
+  'stream_recording_link': 'rdqt86w2atg8',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/44hOIRtxQGbwoVcfEAGnNdiGD0J8fI/vod.mp4?Expires=1638806154&KeyName=vcdn-key&Signature=dPjJa-YE1FHDAFLjafOx44ggDM8'
+}, {
+  'title': '[ENG] The best of both worlds: Backend and Machine Learning with Python',
+  'description': '<p>Backend and Machine Learning development seem to be two very different topics, however, I will tell you my experience transitioning between these two and how Python made this funnier.</p>\n<p><a href="https://docs.google.com/presentation/d/1PBDXejJ1A0SrHjda-AKX7UbXSoOyw28OhalyKLnr_DA/edit?usp=sharing">Presentation Slide</a></p>',
+  'name': '[ENG] The best of both worlds: Backend and Machine Learning with Python',
+  'track_name': 'PyCon Pod 5',
+  'stream_recording_link': '8b6pr49uxpcb',
+  'link_video': 'https://sy-vcdn.streamyard.com/vods/3hRIoMAdLsRTY8rG0kViDrBN1b0B4m/vod.mp4?Expires=1638806156&KeyName=vcdn-key&Signature=ZnZ_bTs5RVnSqBfYmcLnU1z-Ia0'
+}]
