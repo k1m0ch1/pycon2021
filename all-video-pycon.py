@@ -1,5 +1,5 @@
 import requests
-import sys
+import wget
 from bs4 import BeautifulSoup
 
 STAGES = ["Main Stage", "PyCon Pod 1", "PyCon Pod 2", "PyCon Pod 3", "PyCon Pod 4", "PyCon Pod 5"]
@@ -41,5 +41,9 @@ for stage in data:
       "stream_recording_link": stream_yard_link,
       "link_video": getVid.get("src")
     })
+
+    print(f"Start Download {event['title']}")
+
+    wget.download(getVid.get("src"), f'./{event["title"]}.mp4')
 
 print(dataSpeaker)
