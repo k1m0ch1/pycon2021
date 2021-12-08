@@ -42,11 +42,14 @@ for tanggal in allDays:
       for event in stage:
 
         stream_yard_link = event['agendaInfo']['stream_recording_link'].split("/")[-1]
+        speaker = "No Speaker"
+        if 'speakers' in event:
+          speaker = f"{event['speakers'][0]['name']} - {event['speakers'][0]['email']}"
 
         dataSpeaker.append({
           "title": event['title'],
           "description": event['agendaInfo']['description'],
-          "name": event['agendaInfo']['name'],
+          "name": speaker,
           "track_name": event['agendaInfo']['track_name'],
           "stream_recording_link": stream_yard_link,
           "link_video": ""
