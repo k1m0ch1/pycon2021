@@ -1,7 +1,6 @@
 import requests
 import wget
 import os
-import sys
 from bs4 import BeautifulSoup
 
 STAGES = ["Main Stage", "PyCon Pod 1", "PyCon Pod 2", "PyCon Pod 3", "PyCon Pod 4", "PyCon Pod 5"]
@@ -43,28 +42,40 @@ for tanggal in allDays:
       for event in stage:
 
         stream_yard_link = event['agendaInfo']['stream_recording_link'].split("/")[-1]
-        linkVid = requests.get(f"https://embed.streamyard.com/{stream_yard_link}")
 
-        parser = BeautifulSoup(linkVid.text, 'html.parser')
-
-        getVid = parser.find("video", {"id": "video-player-tag"})
-        vidLink = getVid.get("src") if getVid is not None else "Not Available"
         dataSpeaker.append({
           "title": event['title'],
           "description": event['agendaInfo']['description'],
           "name": event['agendaInfo']['name'],
           "track_name": event['agendaInfo']['track_name'],
           "stream_recording_link": stream_yard_link,
-          "link_video": vidLink
+          "link_video": ""
         })
-        if vidLink != "Not Available":
-          if not os.path.exists(f'./{event["title"]}.mp4'):
-              a=0
+        #if vidLink != "Not Available":
+          #if not os.path.exists(f'./{event["title"]}.mp4'):
+              #a=0
               #print(f"Start Download {event['title']}")
 
               #wget.download(vidLink, f'./{event["title"]}.mp4')
-          else:
-              a=1
+          #else:
+              #a=1
               #print("File Already Downloaded")
 
-print(dataSpeaker)
+for index, speaker in enumerate(dataSpeaker):
+    print(f"{index+1}. {speaker['title']} - {speaker['name']}")
+
+menu = int(input("Pilih Title yang mana yang mau di download? (Angka menu) "))
+
+if not os.path.exists(f'./{dataSpeaker[menu-1]["title"]}.mp4'):
+    
+    linkVid = requests.get(f"https://embed.streamyard.com/{dataSpeaker[menu-1]['stream_recording_link']}")
+
+    parser = BeautifulSoup(linkVid.text, 'html.parser')
+
+    getVid = parser.find("video", {"id": "video-player-tag"})
+    vidLink = getVid.get("src") if getVid is not None else "Not Available"
+    if not vidLink == "Not Available":
+      print(f"Start Download {dataSpeaker[menu-1]['title']}")
+      wget.download(vidLink, f'./{dataSpeaker[menu-1]["title"]}.mp4')
+else:
+    print("File Already Downloaded")
